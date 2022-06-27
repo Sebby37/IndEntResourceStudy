@@ -2,6 +2,7 @@
 This is the source code for both of my tests for my Resource Study for SACE Stage 2 Industry & Entrepreneurial Solutions. 
 The first test simply tests the speed in which both displays are able to draw shapes and text.
 The second test tests the readability of both displays at larger and smaller text sizes.
+For all of these tests, I used an Arduino UNO to run the displays and Visual Studio Code to write the code.
 
 ## Displays
 ### Touchscreen
